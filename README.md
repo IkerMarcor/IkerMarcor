@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IkerMarcor
 - 👀 I’m interested in Python, JS, Java, C#, C++ and network automation
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Lauch X team and learn more about these more languages and frameworks to impulse my creer
+- 💞️ I’m looking to collaborate on Lauch X team and learn more about these more languages and frameworks to impulse my future
 - 📫 How to reach me launchx04316@innovaccion.mx
 
 <!---
